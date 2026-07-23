@@ -38,3 +38,23 @@ To focus on conceptual learning, I organize my solutions by algorithmic pattern 
 2. **Brute Force Baseline:** Conceptualize the naive approach to establish a baseline time and space complexity.
 3. **Optimize:** Identify bottlenecks. 
 4. **Clean Implementation:** Write readable code with descriptive variable names and a brief header comment explaining the core logic.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Linked List
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/roshankumar8368/leetcode_solutions/tree/master/0023-merge-k-sorted-lists) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/roshankumar8368/leetcode_solutions/tree/master/0023-merge-k-sorted-lists) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/roshankumar8368/leetcode_solutions/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/roshankumar8368/leetcode_solutions/tree/master/0023-merge-k-sorted-lists) |
+<!---LeetCode Topics End-->
