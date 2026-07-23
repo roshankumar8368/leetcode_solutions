@@ -33,8 +33,6 @@ To focus on conceptual learning, I organize my solutions by algorithmic pattern 
 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | 🟢 Easy | Sliding Window | [Code](./Sliding_Window/121_Best_Time.py) | `O(n)` | `O(1)` |
 | 200 | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | 🟡 Medium | Graphs (DFS) | [Code](./Graphs/200_Number_of_Islands.py) | `O(m*n)` | `O(m*n)` |
 
-> *Note: If you use an auto-sync extension, it might generate its own folder structure. You can replace this section with your extension's default index or maintain this curated one.*
-
 ## 💡 How I Approach Problems
 1. **Understand the Constraints:** Always check edge cases (e.g., empty inputs, extreme integer values) before writing code.
 2. **Brute Force Baseline:** Conceptualize the naive approach to establish a baseline time and space complexity.
