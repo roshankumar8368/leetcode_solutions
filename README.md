@@ -1,10 +1,15 @@
 # 🚀 LeetCode & Data Structures Journey
 
-Welcome to my personal repository containing my optimized solutions to LeetCode problems. I use this space to track my progress, document my algorithms, and refine my problem-solving skills.
+Welcome to my personal repository containing my optimized solutions to LeetCode problems. I use this space to track my progress, document my algorithms, and refine my problem-solving skills as a Backend/Full Stack Developer.
+
+## 👤 About Me
+* **Name:** Roshan Kumar
+* **LeetCode:** [@Roshankumar0012](https://leetcode.com/u/Roshankumar0012/)
+* **LinkedIn:** [roshan-kumar11](https://www.linkedin.com/in/roshan-kumar11/)
+* **GitHub:** [@roshankumar8368](https://github.com/roshankumar8368)
 
 ## 📊 My Progress
-<!-- Replace 'Roshankumar0012' with your actual LeetCode username below -->
-![LeetCode Stats](https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&ext=activity)
+![LeetCode Stats](https://leetcard.jacoblin.cool/Roshankumar0012?theme=dark&ext=activity)
 
 ## 🛠️ Languages & Tools
 * **Languages:** Python, Java, C++ *(Edit this to match the languages you use)*
@@ -33,5 +38,5 @@ To focus on conceptual learning, I organize my solutions by algorithmic pattern 
 ## 💡 How I Approach Problems
 1. **Understand the Constraints:** Always check edge cases (e.g., empty inputs, extreme integer values) before writing code.
 2. **Brute Force Baseline:** Conceptualize the naive approach to establish a baseline time and space complexity.
-3. **Optimize:** Identify bottlenecks. (e.g., Can a hash map reduce lookup time? Can two pointers avoid a nested loop?)
+3. **Optimize:** Identify bottlenecks. 
 4. **Clean Implementation:** Write readable code with descriptive variable names and a brief header comment explaining the core logic.
