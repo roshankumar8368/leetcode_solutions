@@ -45,6 +45,7 @@ To focus on conceptual learning, I organize my solutions by algorithmic pattern 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/roshankumar8368/leetcode_solutions/tree/master/0023-merge-k-sorted-lists) |
+| [0141-linked-list-cycle](https://github.com/roshankumar8368/leetcode_solutions/tree/master/0141-linked-list-cycle) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -57,4 +58,12 @@ To focus on conceptual learning, I organize my solutions by algorithmic pattern 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/roshankumar8368/leetcode_solutions/tree/master/0023-merge-k-sorted-lists) |
+## Hash Table
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/roshankumar8368/leetcode_solutions/tree/master/0141-linked-list-cycle) |
+## Two Pointers
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/roshankumar8368/leetcode_solutions/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
