@@ -3,16 +3,16 @@ class Solution {
        int slow=0;
        int fast=0; 
        while(true){
-        slow=nums[slow];
-       fast = nums[nums[fast]];
+        slow=nums[slow]; // move step one
+       fast = nums[nums[fast]]; // move step 2
        
-       if(slow==fast){
+       if(slow==fast){ //cycle detected
          slow=0;
         while(slow!=fast){
             slow=nums[slow];
             fast=nums[fast];
         }
-        return slow;
+        return slow; //duplicate found
        } 
        }
        
