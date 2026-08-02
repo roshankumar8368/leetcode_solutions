@@ -88,6 +88,7 @@ To focus on conceptual learning, I organize my solutions by algorithmic pattern 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/roshankumar8368/leetcode_solutions/tree/master/0287-find-the-duplicate-number) |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/roshankumar8368/leetcode_solutions/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 ## Binary Search
 |  |
 | ------- |
@@ -100,4 +101,8 @@ To focus on conceptual learning, I organize my solutions by algorithmic pattern 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/roshankumar8368/leetcode_solutions/tree/master/0202-happy-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/roshankumar8368/leetcode_solutions/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 <!---LeetCode Topics End-->
