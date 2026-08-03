@@ -89,6 +89,7 @@ To focus on conceptual learning, I organize my solutions by algorithmic pattern 
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/roshankumar8368/leetcode_solutions/tree/master/0287-find-the-duplicate-number) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/roshankumar8368/leetcode_solutions/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/roshankumar8368/leetcode_solutions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Binary Search
 |  |
 | ------- |
@@ -105,4 +106,5 @@ To focus on conceptual learning, I organize my solutions by algorithmic pattern 
 |  |
 | ------- |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/roshankumar8368/leetcode_solutions/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/roshankumar8368/leetcode_solutions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 <!---LeetCode Topics End-->
