@@ -94,6 +94,7 @@ To focus on conceptual learning, I organize my solutions by algorithmic pattern 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/roshankumar8368/leetcode_solutions/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/roshankumar8368/leetcode_solutions/tree/master/0027-remove-element) |
 | [0056-merge-intervals](https://github.com/roshankumar8368/leetcode_solutions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/roshankumar8368/leetcode_solutions/tree/master/0057-insert-interval) |
@@ -152,5 +153,10 @@ To focus on conceptual learning, I organize my solutions by algorithmic pattern 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/roshankumar8368/leetcode_solutions/tree/master/0014-longest-common-prefix) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/roshankumar8368/leetcode_solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/roshankumar8368/leetcode_solutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
