@@ -1,24 +1,25 @@
+import java.util.Stack;
+
 class Solution {
     public String removeDuplicates(String s) {
 
-        StringBuilder stack = new StringBuilder();
+        Stack<Character> stack = new Stack<>();
 
         for (char ch : s.toCharArray()) {
 
-            // Agar top aur current character same hain
-            if (stack.length() > 0 &&
-                stack.charAt(stack.length() - 1) == ch) {
-
-                // Duplicate pair remove
-                stack.deleteCharAt(stack.length() - 1);
-
+            if (!stack.isEmpty() && stack.peek() == ch) {
+                stack.pop();
             } else {
-
-                // Character add
-                stack.append(ch);
+                stack.push(ch);
             }
         }
 
-        return stack.toString();
+        StringBuilder reverse = new StringBuilder();
+
+        while (!stack.isEmpty()) {
+            reverse.append(stack.pop());
+        }
+
+        return reverse.reverse().toString();
     }
 }
