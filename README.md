@@ -85,6 +85,7 @@ To focus on conceptual learning, I organize my solutions by algorithmic pattern 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/roshankumar8368/leetcode_solutions/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/roshankumar8368/leetcode_solutions/tree/master/0143-reorder-list) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/roshankumar8368/leetcode_solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Recursion
@@ -154,9 +155,14 @@ To focus on conceptual learning, I organize my solutions by algorithmic pattern 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/roshankumar8368/leetcode_solutions/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/roshankumar8368/leetcode_solutions/tree/master/0020-valid-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/roshankumar8368/leetcode_solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Trie
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/roshankumar8368/leetcode_solutions/tree/master/0014-longest-common-prefix) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/roshankumar8368/leetcode_solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
