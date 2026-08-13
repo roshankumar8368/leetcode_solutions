@@ -87,6 +87,7 @@ To focus on conceptual learning, I organize my solutions by algorithmic pattern 
 | ------- |
 | [0020-valid-parentheses](https://github.com/roshankumar8368/leetcode_solutions/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/roshankumar8368/leetcode_solutions/tree/master/0143-reorder-list) |
+| [0503-next-greater-element-ii](https://github.com/roshankumar8368/leetcode_solutions/tree/master/0503-next-greater-element-ii) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/roshankumar8368/leetcode_solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Recursion
 |  |
@@ -100,6 +101,7 @@ To focus on conceptual learning, I organize my solutions by algorithmic pattern 
 | [0056-merge-intervals](https://github.com/roshankumar8368/leetcode_solutions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/roshankumar8368/leetcode_solutions/tree/master/0057-insert-interval) |
 | [0287-find-the-duplicate-number](https://github.com/roshankumar8368/leetcode_solutions/tree/master/0287-find-the-duplicate-number) |
+| [0503-next-greater-element-ii](https://github.com/roshankumar8368/leetcode_solutions/tree/master/0503-next-greater-element-ii) |
 | [0525-contiguous-array](https://github.com/roshankumar8368/leetcode_solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/roshankumar8368/leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0918-maximum-sum-circular-subarray](https://github.com/roshankumar8368/leetcode_solutions/tree/master/0918-maximum-sum-circular-subarray) |
@@ -165,4 +167,8 @@ To focus on conceptual learning, I organize my solutions by algorithmic pattern 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/roshankumar8368/leetcode_solutions/tree/master/0020-valid-parentheses) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0503-next-greater-element-ii](https://github.com/roshankumar8368/leetcode_solutions/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
