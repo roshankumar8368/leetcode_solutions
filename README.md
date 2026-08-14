@@ -90,6 +90,7 @@ To focus on conceptual learning, I organize my solutions by algorithmic pattern 
 | [0503-next-greater-element-ii](https://github.com/roshankumar8368/leetcode_solutions/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/roshankumar8368/leetcode_solutions/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/roshankumar8368/leetcode_solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/roshankumar8368/leetcode_solutions/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -161,6 +162,7 @@ To focus on conceptual learning, I organize my solutions by algorithmic pattern 
 | [0014-longest-common-prefix](https://github.com/roshankumar8368/leetcode_solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/roshankumar8368/leetcode_solutions/tree/master/0020-valid-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/roshankumar8368/leetcode_solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/roshankumar8368/leetcode_solutions/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 ## Trie
 |  |
 | ------- |
