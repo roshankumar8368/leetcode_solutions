@@ -88,6 +88,7 @@ To focus on conceptual learning, I organize my solutions by algorithmic pattern 
 | [0020-valid-parentheses](https://github.com/roshankumar8368/leetcode_solutions/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/roshankumar8368/leetcode_solutions/tree/master/0143-reorder-list) |
 | [0503-next-greater-element-ii](https://github.com/roshankumar8368/leetcode_solutions/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/roshankumar8368/leetcode_solutions/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/roshankumar8368/leetcode_solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Recursion
 |  |
@@ -104,6 +105,7 @@ To focus on conceptual learning, I organize my solutions by algorithmic pattern 
 | [0503-next-greater-element-ii](https://github.com/roshankumar8368/leetcode_solutions/tree/master/0503-next-greater-element-ii) |
 | [0525-contiguous-array](https://github.com/roshankumar8368/leetcode_solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/roshankumar8368/leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0739-daily-temperatures](https://github.com/roshankumar8368/leetcode_solutions/tree/master/0739-daily-temperatures) |
 | [0918-maximum-sum-circular-subarray](https://github.com/roshankumar8368/leetcode_solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/roshankumar8368/leetcode_solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0986-interval-list-intersections](https://github.com/roshankumar8368/leetcode_solutions/tree/master/0986-interval-list-intersections) |
@@ -171,4 +173,5 @@ To focus on conceptual learning, I organize my solutions by algorithmic pattern 
 |  |
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/roshankumar8368/leetcode_solutions/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/roshankumar8368/leetcode_solutions/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
