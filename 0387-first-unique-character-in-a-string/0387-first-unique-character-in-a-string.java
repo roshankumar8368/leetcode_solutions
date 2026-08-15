@@ -1,16 +1,16 @@
 class Solution {
     public int firstUniqChar(String s) {
 
-        int[] count = new int[26];
+        HashMap<Character, Integer> map = new HashMap<>();
 
-        // 1. Har character ka count
+        // Step 1: frequency count
         for (char c : s.toCharArray()) {
-            count[c - 'a']++;
+            map.put(c, map.getOrDefault(c, 0) + 1);
         }
 
-        // 2. Pehla character jiska count 1 hai
+        // Step 2: first unique character
         for (int i = 0; i < s.length(); i++) {
-            if (count[s.charAt(i) - 'a'] == 1) {
+            if (map.get(s.charAt(i)) == 1) {
                 return i;
             }
         }
