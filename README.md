@@ -68,6 +68,7 @@ To focus on conceptual learning, I organize my solutions by algorithmic pattern 
 | [0141-linked-list-cycle](https://github.com/roshankumar8368/leetcode_solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/roshankumar8368/leetcode_solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/roshankumar8368/leetcode_solutions/tree/master/0202-happy-number) |
+| [0383-ransom-note](https://github.com/roshankumar8368/leetcode_solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/roshankumar8368/leetcode_solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0525-contiguous-array](https://github.com/roshankumar8368/leetcode_solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/roshankumar8368/leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -163,6 +164,7 @@ To focus on conceptual learning, I organize my solutions by algorithmic pattern 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/roshankumar8368/leetcode_solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/roshankumar8368/leetcode_solutions/tree/master/0020-valid-parentheses) |
+| [0383-ransom-note](https://github.com/roshankumar8368/leetcode_solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/roshankumar8368/leetcode_solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/roshankumar8368/leetcode_solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/roshankumar8368/leetcode_solutions/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
@@ -182,5 +184,6 @@ To focus on conceptual learning, I organize my solutions by algorithmic pattern 
 ## Counting
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/roshankumar8368/leetcode_solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/roshankumar8368/leetcode_solutions/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
