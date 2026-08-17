@@ -70,6 +70,7 @@ To focus on conceptual learning, I organize my solutions by algorithmic pattern 
 | [0202-happy-number](https://github.com/roshankumar8368/leetcode_solutions/tree/master/0202-happy-number) |
 | [0383-ransom-note](https://github.com/roshankumar8368/leetcode_solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/roshankumar8368/leetcode_solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0409-longest-palindrome](https://github.com/roshankumar8368/leetcode_solutions/tree/master/0409-longest-palindrome) |
 | [0525-contiguous-array](https://github.com/roshankumar8368/leetcode_solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/roshankumar8368/leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/roshankumar8368/leetcode_solutions/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -166,6 +167,7 @@ To focus on conceptual learning, I organize my solutions by algorithmic pattern 
 | [0020-valid-parentheses](https://github.com/roshankumar8368/leetcode_solutions/tree/master/0020-valid-parentheses) |
 | [0383-ransom-note](https://github.com/roshankumar8368/leetcode_solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/roshankumar8368/leetcode_solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0409-longest-palindrome](https://github.com/roshankumar8368/leetcode_solutions/tree/master/0409-longest-palindrome) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/roshankumar8368/leetcode_solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/roshankumar8368/leetcode_solutions/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 ## Trie
@@ -186,4 +188,8 @@ To focus on conceptual learning, I organize my solutions by algorithmic pattern 
 | ------- |
 | [0383-ransom-note](https://github.com/roshankumar8368/leetcode_solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/roshankumar8368/leetcode_solutions/tree/master/0387-first-unique-character-in-a-string) |
+## Greedy
+|  |
+| ------- |
+| [0409-longest-palindrome](https://github.com/roshankumar8368/leetcode_solutions/tree/master/0409-longest-palindrome) |
 <!---LeetCode Topics End-->
