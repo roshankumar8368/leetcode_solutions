@@ -48,6 +48,7 @@ To focus on conceptual learning, I organize my solutions by algorithmic pattern 
 | [0141-linked-list-cycle](https://github.com/roshankumar8368/leetcode_solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/roshankumar8368/leetcode_solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/roshankumar8368/leetcode_solutions/tree/master/0143-reorder-list) |
+| [0206-reverse-linked-list](https://github.com/roshankumar8368/leetcode_solutions/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/roshankumar8368/leetcode_solutions/tree/master/0876-middle-of-the-linked-list) |
 ## Divide and Conquer
 |  |
@@ -98,6 +99,7 @@ To focus on conceptual learning, I organize my solutions by algorithmic pattern 
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/roshankumar8368/leetcode_solutions/tree/master/0143-reorder-list) |
+| [0206-reverse-linked-list](https://github.com/roshankumar8368/leetcode_solutions/tree/master/0206-reverse-linked-list) |
 ## Array
 |  |
 | ------- |
