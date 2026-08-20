@@ -45,6 +45,7 @@ To focus on conceptual learning, I organize my solutions by algorithmic pattern 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/roshankumar8368/leetcode_solutions/tree/master/0023-merge-k-sorted-lists) |
+| [0061-rotate-list](https://github.com/roshankumar8368/leetcode_solutions/tree/master/0061-rotate-list) |
 | [0092-reverse-linked-list-ii](https://github.com/roshankumar8368/leetcode_solutions/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/roshankumar8368/leetcode_solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/roshankumar8368/leetcode_solutions/tree/master/0142-linked-list-cycle-ii) |
@@ -80,6 +81,7 @@ To focus on conceptual learning, I organize my solutions by algorithmic pattern 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/roshankumar8368/leetcode_solutions/tree/master/0027-remove-element) |
+| [0061-rotate-list](https://github.com/roshankumar8368/leetcode_solutions/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/roshankumar8368/leetcode_solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/roshankumar8368/leetcode_solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/roshankumar8368/leetcode_solutions/tree/master/0143-reorder-list) |
