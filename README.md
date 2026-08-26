@@ -110,6 +110,7 @@ To focus on conceptual learning, I organize my solutions by algorithmic pattern 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/roshankumar8368/leetcode_solutions/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/roshankumar8368/leetcode_solutions/tree/master/0027-remove-element) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/roshankumar8368/leetcode_solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0056-merge-intervals](https://github.com/roshankumar8368/leetcode_solutions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/roshankumar8368/leetcode_solutions/tree/master/0057-insert-interval) |
 | [0287-find-the-duplicate-number](https://github.com/roshankumar8368/leetcode_solutions/tree/master/0287-find-the-duplicate-number) |
@@ -125,6 +126,7 @@ To focus on conceptual learning, I organize my solutions by algorithmic pattern 
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/roshankumar8368/leetcode_solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/roshankumar8368/leetcode_solutions/tree/master/0287-find-the-duplicate-number) |
 ## Bit Manipulation
 |  |
