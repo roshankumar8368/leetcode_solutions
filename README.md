@@ -118,6 +118,7 @@ To focus on conceptual learning, I organize my solutions by algorithmic pattern 
 | [0525-contiguous-array](https://github.com/roshankumar8368/leetcode_solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/roshankumar8368/leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0739-daily-temperatures](https://github.com/roshankumar8368/leetcode_solutions/tree/master/0739-daily-temperatures) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/roshankumar8368/leetcode_solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/roshankumar8368/leetcode_solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/roshankumar8368/leetcode_solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0986-interval-list-intersections](https://github.com/roshankumar8368/leetcode_solutions/tree/master/0986-interval-list-intersections) |
@@ -128,6 +129,7 @@ To focus on conceptual learning, I organize my solutions by algorithmic pattern 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/roshankumar8368/leetcode_solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/roshankumar8368/leetcode_solutions/tree/master/0287-find-the-duplicate-number) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/roshankumar8368/leetcode_solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -201,4 +203,8 @@ To focus on conceptual learning, I organize my solutions by algorithmic pattern 
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/roshankumar8368/leetcode_solutions/tree/master/0409-longest-palindrome) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/roshankumar8368/leetcode_solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
