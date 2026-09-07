@@ -113,6 +113,7 @@ To focus on conceptual learning, I organize my solutions by algorithmic pattern 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/roshankumar8368/leetcode_solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0056-merge-intervals](https://github.com/roshankumar8368/leetcode_solutions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/roshankumar8368/leetcode_solutions/tree/master/0057-insert-interval) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/roshankumar8368/leetcode_solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/roshankumar8368/leetcode_solutions/tree/master/0287-find-the-duplicate-number) |
 | [0503-next-greater-element-ii](https://github.com/roshankumar8368/leetcode_solutions/tree/master/0503-next-greater-element-ii) |
 | [0525-contiguous-array](https://github.com/roshankumar8368/leetcode_solutions/tree/master/0525-contiguous-array) |
@@ -128,6 +129,7 @@ To focus on conceptual learning, I organize my solutions by algorithmic pattern 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/roshankumar8368/leetcode_solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/roshankumar8368/leetcode_solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/roshankumar8368/leetcode_solutions/tree/master/0287-find-the-duplicate-number) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/roshankumar8368/leetcode_solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Bit Manipulation
