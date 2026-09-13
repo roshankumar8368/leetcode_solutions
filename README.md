@@ -42,8 +42,8 @@ To focus on conceptual learning, I organize my solutions by algorithmic pattern 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Linked List
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/roshankumar8368/leetcode_solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/roshankumar8368/leetcode_solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/roshankumar8368/leetcode_solutions/tree/master/0025-reverse-nodes-in-k-group) |
@@ -55,21 +55,21 @@ To focus on conceptual learning, I organize my solutions by algorithmic pattern 
 | [0206-reverse-linked-list](https://github.com/roshankumar8368/leetcode_solutions/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/roshankumar8368/leetcode_solutions/tree/master/0876-middle-of-the-linked-list) |
 ## Divide and Conquer
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/roshankumar8368/leetcode_solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0918-maximum-sum-circular-subarray](https://github.com/roshankumar8368/leetcode_solutions/tree/master/0918-maximum-sum-circular-subarray) |
 ## Heap (Priority Queue)
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/roshankumar8368/leetcode_solutions/tree/master/0023-merge-k-sorted-lists) |
 ## Merge Sort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/roshankumar8368/leetcode_solutions/tree/master/0023-merge-k-sorted-lists) |
 ## Hash Table
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/roshankumar8368/leetcode_solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/roshankumar8368/leetcode_solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/roshankumar8368/leetcode_solutions/tree/master/0202-happy-number) |
@@ -80,8 +80,8 @@ To focus on conceptual learning, I organize my solutions by algorithmic pattern 
 | [0560-subarray-sum-equals-k](https://github.com/roshankumar8368/leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/roshankumar8368/leetcode_solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 ## Two Pointers
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0027-remove-element](https://github.com/roshankumar8368/leetcode_solutions/tree/master/0027-remove-element) |
 | [0061-rotate-list](https://github.com/roshankumar8368/leetcode_solutions/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/roshankumar8368/leetcode_solutions/tree/master/0141-linked-list-cycle) |
@@ -92,24 +92,25 @@ To focus on conceptual learning, I organize my solutions by algorithmic pattern 
 | [0876-middle-of-the-linked-list](https://github.com/roshankumar8368/leetcode_solutions/tree/master/0876-middle-of-the-linked-list) |
 | [0986-interval-list-intersections](https://github.com/roshankumar8368/leetcode_solutions/tree/master/0986-interval-list-intersections) |
 ## Stack
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0020-valid-parentheses](https://github.com/roshankumar8368/leetcode_solutions/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/roshankumar8368/leetcode_solutions/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0143-reorder-list](https://github.com/roshankumar8368/leetcode_solutions/tree/master/0143-reorder-list) |
 | [0503-next-greater-element-ii](https://github.com/roshankumar8368/leetcode_solutions/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/roshankumar8368/leetcode_solutions/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/roshankumar8368/leetcode_solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/roshankumar8368/leetcode_solutions/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 ## Recursion
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/roshankumar8368/leetcode_solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/roshankumar8368/leetcode_solutions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0143-reorder-list](https://github.com/roshankumar8368/leetcode_solutions/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/roshankumar8368/leetcode_solutions/tree/master/0206-reverse-linked-list) |
 ## Array
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/roshankumar8368/leetcode_solutions/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/roshankumar8368/leetcode_solutions/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/roshankumar8368/leetcode_solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -129,88 +130,91 @@ To focus on conceptual learning, I organize my solutions by algorithmic pattern 
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/roshankumar8368/leetcode_solutions/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/roshankumar8368/leetcode_solutions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Binary Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/roshankumar8368/leetcode_solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/roshankumar8368/leetcode_solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/roshankumar8368/leetcode_solutions/tree/master/0287-find-the-duplicate-number) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/roshankumar8368/leetcode_solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/roshankumar8368/leetcode_solutions/tree/master/0875-koko-eating-bananas) |
 ## Bit Manipulation
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0287-find-the-duplicate-number](https://github.com/roshankumar8368/leetcode_solutions/tree/master/0287-find-the-duplicate-number) |
 ## Math
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0202-happy-number](https://github.com/roshankumar8368/leetcode_solutions/tree/master/0202-happy-number) |
 ## Dynamic Programming
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0032-longest-valid-parentheses](https://github.com/roshankumar8368/leetcode_solutions/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0918-maximum-sum-circular-subarray](https://github.com/roshankumar8368/leetcode_solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/roshankumar8368/leetcode_solutions/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/roshankumar8368/leetcode_solutions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Queue
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/roshankumar8368/leetcode_solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0918-maximum-sum-circular-subarray](https://github.com/roshankumar8368/leetcode_solutions/tree/master/0918-maximum-sum-circular-subarray) |
 ## Monotonic Queue
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/roshankumar8368/leetcode_solutions/tree/master/0918-maximum-sum-circular-subarray) |
 ## Prefix Sum
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0525-contiguous-array](https://github.com/roshankumar8368/leetcode_solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/roshankumar8368/leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/roshankumar8368/leetcode_solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 ## Sorting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0056-merge-intervals](https://github.com/roshankumar8368/leetcode_solutions/tree/master/0056-merge-intervals) |
 ## Quicksort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0056-merge-intervals](https://github.com/roshankumar8368/leetcode_solutions/tree/master/0056-merge-intervals) |
 ## Sweep Line
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0986-interval-list-intersections](https://github.com/roshankumar8368/leetcode_solutions/tree/master/0986-interval-list-intersections) |
 ## String
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/roshankumar8368/leetcode_solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/roshankumar8368/leetcode_solutions/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/roshankumar8368/leetcode_solutions/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0383-ransom-note](https://github.com/roshankumar8368/leetcode_solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/roshankumar8368/leetcode_solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/roshankumar8368/leetcode_solutions/tree/master/0409-longest-palindrome) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/roshankumar8368/leetcode_solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/roshankumar8368/leetcode_solutions/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 ## Trie
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/roshankumar8368/leetcode_solutions/tree/master/0014-longest-common-prefix) |
 ## Bracket Sequences
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0020-valid-parentheses](https://github.com/roshankumar8368/leetcode_solutions/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/roshankumar8368/leetcode_solutions/tree/main/0032-longest-valid-parentheses/) | Hard |
 ## Monotonic Stack
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0503-next-greater-element-ii](https://github.com/roshankumar8368/leetcode_solutions/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/roshankumar8368/leetcode_solutions/tree/master/0739-daily-temperatures) |
 ## Counting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0383-ransom-note](https://github.com/roshankumar8368/leetcode_solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/roshankumar8368/leetcode_solutions/tree/master/0387-first-unique-character-in-a-string) |
 ## Greedy
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0409-longest-palindrome](https://github.com/roshankumar8368/leetcode_solutions/tree/master/0409-longest-palindrome) |
 ## Ternary Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/roshankumar8368/leetcode_solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
