@@ -106,6 +106,7 @@ To focus on conceptual learning, I organize my solutions by algorithmic pattern 
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/roshankumar8368/leetcode_solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/roshankumar8368/leetcode_solutions/tree/master/0025-reverse-nodes-in-k-group) |
+| [0050-powx-n](https://github.com/roshankumar8368/leetcode_solutions/tree/main/0050-powx-n/) | Medium |
 | [0143-reorder-list](https://github.com/roshankumar8368/leetcode_solutions/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/roshankumar8368/leetcode_solutions/tree/master/0206-reverse-linked-list) |
 ## Array
@@ -144,6 +145,7 @@ To focus on conceptual learning, I organize my solutions by algorithmic pattern 
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0050-powx-n](https://github.com/roshankumar8368/leetcode_solutions/tree/main/0050-powx-n/) | Medium |
 | [0202-happy-number](https://github.com/roshankumar8368/leetcode_solutions/tree/master/0202-happy-number) |
 ## Dynamic Programming
 | Problem Name | Difficulty |
