@@ -70,6 +70,7 @@ To focus on conceptual learning, I organize my solutions by algorithmic pattern 
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0013-roman-to-integer](https://github.com/roshankumar8368/leetcode_solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0141-linked-list-cycle](https://github.com/roshankumar8368/leetcode_solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/roshankumar8368/leetcode_solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/roshankumar8368/leetcode_solutions/tree/master/0202-happy-number) |
@@ -145,6 +146,7 @@ To focus on conceptual learning, I organize my solutions by algorithmic pattern 
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0013-roman-to-integer](https://github.com/roshankumar8368/leetcode_solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0050-powx-n](https://github.com/roshankumar8368/leetcode_solutions/tree/main/0050-powx-n/) | Medium |
 | [0202-happy-number](https://github.com/roshankumar8368/leetcode_solutions/tree/master/0202-happy-number) |
 ## Dynamic Programming
@@ -184,6 +186,7 @@ To focus on conceptual learning, I organize my solutions by algorithmic pattern 
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0013-roman-to-integer](https://github.com/roshankumar8368/leetcode_solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/roshankumar8368/leetcode_solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/roshankumar8368/leetcode_solutions/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/roshankumar8368/leetcode_solutions/tree/main/0032-longest-valid-parentheses/) | Hard |
