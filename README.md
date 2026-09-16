@@ -58,11 +58,13 @@ To focus on conceptual learning, I organize my solutions by algorithmic pattern 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/roshankumar8368/leetcode_solutions/tree/master/0023-merge-k-sorted-lists) |
+| [0347-top-k-frequent-elements](https://github.com/roshankumar8368/leetcode_solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/roshankumar8368/leetcode_solutions/tree/master/0918-maximum-sum-circular-subarray) |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/roshankumar8368/leetcode_solutions/tree/master/0023-merge-k-sorted-lists) |
+| [0347-top-k-frequent-elements](https://github.com/roshankumar8368/leetcode_solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -74,6 +76,7 @@ To focus on conceptual learning, I organize my solutions by algorithmic pattern 
 | [0141-linked-list-cycle](https://github.com/roshankumar8368/leetcode_solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/roshankumar8368/leetcode_solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/roshankumar8368/leetcode_solutions/tree/master/0202-happy-number) |
+| [0347-top-k-frequent-elements](https://github.com/roshankumar8368/leetcode_solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0383-ransom-note](https://github.com/roshankumar8368/leetcode_solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/roshankumar8368/leetcode_solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/roshankumar8368/leetcode_solutions/tree/master/0409-longest-palindrome) |
@@ -120,6 +123,7 @@ To focus on conceptual learning, I organize my solutions by algorithmic pattern 
 | [0057-insert-interval](https://github.com/roshankumar8368/leetcode_solutions/tree/master/0057-insert-interval) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/roshankumar8368/leetcode_solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/roshankumar8368/leetcode_solutions/tree/master/0287-find-the-duplicate-number) |
+| [0347-top-k-frequent-elements](https://github.com/roshankumar8368/leetcode_solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0503-next-greater-element-ii](https://github.com/roshankumar8368/leetcode_solutions/tree/master/0503-next-greater-element-ii) |
 | [0525-contiguous-array](https://github.com/roshankumar8368/leetcode_solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/roshankumar8368/leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -175,6 +179,7 @@ To focus on conceptual learning, I organize my solutions by algorithmic pattern 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0056-merge-intervals](https://github.com/roshankumar8368/leetcode_solutions/tree/master/0056-merge-intervals) |
+| [0347-top-k-frequent-elements](https://github.com/roshankumar8368/leetcode_solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Quicksort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -212,6 +217,7 @@ To focus on conceptual learning, I organize my solutions by algorithmic pattern 
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/roshankumar8368/leetcode_solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0383-ransom-note](https://github.com/roshankumar8368/leetcode_solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/roshankumar8368/leetcode_solutions/tree/master/0387-first-unique-character-in-a-string) |
 ## Greedy
@@ -222,4 +228,12 @@ To focus on conceptual learning, I organize my solutions by algorithmic pattern 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/roshankumar8368/leetcode_solutions/tree/master/0852-peak-index-in-a-mountain-array) |
+## Bucket Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/roshankumar8368/leetcode_solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Quickselect
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/roshankumar8368/leetcode_solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 <!---LeetCode Topics End-->
