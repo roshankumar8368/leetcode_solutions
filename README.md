@@ -197,6 +197,7 @@ To focus on conceptual learning, I organize my solutions by algorithmic pattern 
 | [0014-longest-common-prefix](https://github.com/roshankumar8368/leetcode_solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/roshankumar8368/leetcode_solutions/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/roshankumar8368/leetcode_solutions/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0058-length-of-last-word](https://github.com/roshankumar8368/leetcode_solutions/tree/main/0058-length-of-last-word/) | Easy |
 | [0383-ransom-note](https://github.com/roshankumar8368/leetcode_solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/roshankumar8368/leetcode_solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/roshankumar8368/leetcode_solutions/tree/master/0409-longest-palindrome) |
